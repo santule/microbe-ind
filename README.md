@@ -1,9 +1,9 @@
 # Machine learning to predict ecological indicators using microbe OTUs present in brisbane river.
 
 #### The input data is provided in the data/ folder as follows:
-#### Data_for_ML.csv contains the input data for building ML models
-#### Indval_analyses_N2_v4.csv and Indval_analyses_P2_v4.csv contains predicted indicators for nitrates and phosphorus, respectively
-#### OTU_ID_fullname_lookup_v2.csv contains the data linking OTU ID to their taxonomy string
+#### *Data_for_ML.csv* contains the input data for building ML models
+#### *Indval_analyses_N2_v4.csv* and *Indval_analyses_P2_v4.csv* contains predicted indicators for nitrates and phosphorus, respectively
+#### *OTU_ID_fullname_lookup_v2.csv* contains the data linking OTU ID to their taxonomy string
 
 ## Machine Learning Workflow
 
